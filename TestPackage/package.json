@@ -1,0 +1,19 @@
+{
+	"name": "com.test.thirdparty",
+	"version": "1.0.0",
+	"displayName": "Test Third Party",
+	"description": "Description",
+	"unity": "2021.3",
+	"license": "Proprietary",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SugarKat/IN-22366_LFS_PackageBug"
+	},
+	"author": {
+		"name": "Author name",
+		"email": "email@test.com",
+		"url": "https://test.com"
+	},
+	"dependencies": {},
+  "hideInEditor": false
+}
